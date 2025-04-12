@@ -1,4 +1,4 @@
-🎯 I'm interested in AI<br>🌱 I'm currently learning ML<br>💬 Ask me about python & java
+🎯 I'm interested in AI<br>🌱 I'm currently learning ML<br>💬 Ask me about python & Django
 
 ## 🌐 Socials:
 
